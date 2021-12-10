@@ -6,4 +6,4 @@ privet
 
 
 
-buy
+money buy
